@@ -51,5 +51,12 @@ switch conditionID {
 
 <img width="401" alt="DarkMode" src="https://user-images.githubusercontent.com/32853291/199283363-d73dd2fd-1fbf-407f-9e27-c568e3d77e08.png">
 
+### Details Info
+
+<img width="396" alt="DetailsInfo" src="https://user-images.githubusercontent.com/32853291/199284918-cb2f6423-4a9a-4fdc-b0bd-e60332d66483.png">
+
+1) GPS option for current user location.
+2) Variety of icons, depending of the weather status.
+3) Variety of icons, depending of the temperature's value.
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
