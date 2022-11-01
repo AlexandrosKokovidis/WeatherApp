@@ -5,7 +5,7 @@
 
 It is a beautiful, dark-mode enabled weather app. You are be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-## What you will learn
+## What we have accomplished
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
