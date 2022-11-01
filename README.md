@@ -42,4 +42,14 @@ switch conditionID {
         }
 ```
 
+### Light Mode Example
+
+<img width="387" alt="lightMode" src="https://user-images.githubusercontent.com/32853291/199281812-80cb4bc4-9fb6-48cb-9a93-de9213e9c06f.png">
+
+
+### Dark Mode Example
+
+<img width="386" alt="darkMode" src="https://user-images.githubusercontent.com/32853291/199281839-c4d94312-873d-409c-866d-7fc698844806.png">
+
+
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
