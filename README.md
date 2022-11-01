@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 ## About this app
 
 It is a beautiful, dark-mode enabled weather app. You are be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
@@ -56,7 +53,8 @@ switch conditionID {
 <img width="396" alt="DetailsInfo" src="https://user-images.githubusercontent.com/32853291/199284918-cb2f6423-4a9a-4fdc-b0bd-e60332d66483.png">
 
 1) GPS option for current user location.
-2) Variety of icons, depending of the weather status.
-3) Variety of icons, depending of the temperature's value.
+2) Variety of icons, considering the weather status.
+3) Variety of icons, considering the temperature's value.
+
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
