@@ -63,6 +63,7 @@ switch conditionID {
 
 >* This app has been created for training / learning purpose, following the courses below.
 
-* Copyright © 2022 App Brewery. All rights reserved.
+>* Copyright © 2022 App Brewery. All rights reserved.
 
-* This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>* This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co]
+>* (https://www.appbrewery.co/)
