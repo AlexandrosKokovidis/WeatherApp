@@ -1,6 +1,5 @@
 //  WeatherManager.swift
 //  Clima
-//  Copyright © 2022 App Brewery. All rights reserved.
 
 import CoreLocation
 import Foundation
