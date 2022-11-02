@@ -57,8 +57,11 @@ switch conditionID {
 2) Variety of icons, considering the weather status.
 3) Variety of icons, considering the temperature's value.
 
->
-* This app has been created for training / learning purpose, following the courses below.
+
+
+
+
+>* This app has been created for training / learning purpose, following the courses below.
 
 * Copyright © 2022 App Brewery. All rights reserved.
 
