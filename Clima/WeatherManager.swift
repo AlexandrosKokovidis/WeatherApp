@@ -1,6 +1,5 @@
 //  WeatherManager.swift
 //  Clima
-//  Created by Alex Kokovidis on 16/5/22.
 //  Copyright © 2022 App Brewery. All rights reserved.
 
 import CoreLocation

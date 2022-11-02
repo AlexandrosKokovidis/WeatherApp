@@ -1,7 +1,5 @@
 //  WeatherData.swift
 //  Clima
-//  Created by Alex Kokovidis on 19/5/22.
-//  Copyright © 2022 App Brewery. All rights reserved.
 
 import Foundation
 
